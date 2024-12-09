@@ -1,0 +1,5 @@
+#### df_ks.csv ####
+
+ID_CLIENTE -> Identificador do cliente
+SCORE -> Score gerado pelo Modelo
+TARGET -> Variável que define se o cliente é um bom ou mau pagador
